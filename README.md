@@ -4,7 +4,7 @@ This is a professional and responsive admin dashboard template built with Bootst
 
 ## Table of Contents
 
-- [Preview](#[preview](https://moinakbootstrapdashboard.netlify.app/))
+- [Preview]((https://moinakbootstrapdashboard.netlify.app/))
 ## Features
 
 - Responsive sidebar navigation with gradient styling
