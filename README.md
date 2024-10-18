@@ -9,7 +9,6 @@ This is a professional and responsive admin dashboard template built with Bootst
 ## Getting Started
 Follow the instructions below to set up and run the template on your local machine.
 ### Installation
-1. Clone the repository:
-2. 
+1. Clone the repository. 
 ### Preview
 1. https://moinakbootstrapdashboard.netlify.app/
